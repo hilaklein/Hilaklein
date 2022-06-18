@@ -1,4 +1,7 @@
-### Hi there 👋
+-👋 Hi, I'm @hilaklein
+-👀 Intrested in Beckend, Fronted and Stuck full
+-📖 I'm a 3rd  year student in Software Engineering at Ben-Gurion University
+-📬You can reach me by my Email: hilaklein94@google.com or LinkdIn: https://www.linkedin.com/in/hila-klein-b83081238/
 
 <!--
 **hilaklein/Hilaklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
